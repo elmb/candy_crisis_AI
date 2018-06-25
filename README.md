@@ -1,4 +1,3 @@
-##Candy Crisis 
 COMP 472/6721 (Artificial Intelligence) Project Winter 2018
 
 ## Instructions:
